@@ -1,0 +1,7 @@
+metric,value
+T-cell-only cell count,13059.0
+Epithelial-only cell count,78113.0
+Median nearest epithelial distance,33.13622704475471
+Mean nearest epithelial distance,39.1165089827192
+25th percentile distance,19.858914949343173
+75th percentile distance,52.72375019847732

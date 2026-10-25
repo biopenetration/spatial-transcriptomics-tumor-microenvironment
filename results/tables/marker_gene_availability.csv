@@ -1,0 +1,10 @@
+marker_group,gene,available
+epithelial_associated,EPCAM,True
+epithelial_associated,KRT8,True
+t_cell_associated,CD3D,True
+t_cell_associated,CD3E,True
+immune_associated,PTPRC,True
+immune_associated,CD68,True
+immune_associated,MS4A1,True
+stromal_vascular_associated,ACTA2,True
+stromal_vascular_associated,PECAM1,True

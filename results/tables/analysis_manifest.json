@@ -1,0 +1,34 @@
+{
+  "project": "Spatial Transcriptomics Tumor Microenvironment",
+  "dataset": "Xenium FFPE Human Breast Cancer Replicate 1",
+  "analysis_notebook": "02_quality_control.ipynb",
+  "n_cells": 167780,
+  "n_genes": 313,
+  "spatial_coordinates_present": true,
+  "marker_groups": {
+    "epithelial_associated": [
+      "EPCAM",
+      "KRT8"
+    ],
+    "t_cell_associated": [
+      "CD3D",
+      "CD3E"
+    ],
+    "immune_associated": [
+      "PTPRC",
+      "CD68",
+      "MS4A1"
+    ],
+    "stromal_vascular_associated": [
+      "ACTA2",
+      "PECAM1"
+    ]
+  },
+  "random_seed": 42,
+  "generated_at_utc": "2026-10-25T06:26:17.532036+00:00",
+  "notes": [
+    "QC flags are descriptive; no cells were removed.",
+    "Marker groups are exploratory and may overlap.",
+    "Expression thresholds and filtering require biological justification."
+  ]
+}

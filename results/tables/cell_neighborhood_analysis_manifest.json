@@ -1,0 +1,18 @@
+{
+  "notebook": "04_cell_neighborhoods.ipynb",
+  "input_file": "xenium_breast_cancer_qc.h5ad",
+  "n_cells": 167780,
+  "n_genes": 313,
+  "random_seed": 42,
+  "n_permutations_requested": 100,
+  "n_permutations_valid": 100,
+  "grid_bins_per_axis": 20,
+  "epithelial_definition": "EPCAM > 0 and KRT8 > 0",
+  "tcell_definition": "CD3D > 0 and CD3E > 0",
+  "overlap_handling": "Cells meeting both definitions excluded from exclusive-group distance analysis",
+  "distance_unit": "Dataset coordinate units; physical scale not assumed",
+  "observed_median_distance": 33.13622704475471,
+  "mean_null_median_distance": 13.229175689674742,
+  "empirical_p_value_smaller": 1.0,
+  "interpretation_note": "Exploratory spatial association analysis. Marker-based groups are not definitive cell-type labels. Local label permutations preserve group counts within grid bins but do not fully model tissue architecture or establish cell-cell interaction."
+}

@@ -1,0 +1,5 @@
+marker_group,markers_available,cells_with_any_marker,cells_with_all_markers,percent_with_any_marker
+epithelial_associated,"EPCAM, KRT8",112065,80057,66.7928239361068
+t_cell_associated,"CD3D, CD3E",44636,15003,26.603886041244486
+immune_associated,"PTPRC, CD68, MS4A1",83094,2841,49.52556919775897
+stromal_vascular_associated,"ACTA2, PECAM1",107852,29091,64.28179759208487

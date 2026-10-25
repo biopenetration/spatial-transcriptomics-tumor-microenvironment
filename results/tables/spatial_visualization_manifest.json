@@ -1,0 +1,21 @@
+{
+  "notebook": "03_spatial_visualization.ipynb",
+  "input_file": "xenium_breast_cancer_qc.h5ad",
+  "n_cells": 167780,
+  "n_genes": 313,
+  "coordinate_key": "spatial",
+  "genes_visualized": [
+    "EPCAM",
+    "KRT8",
+    "PTPRC",
+    "CD68",
+    "CD3D",
+    "CD3E",
+    "MS4A1",
+    "ACTA2",
+    "PECAM1"
+  ],
+  "figures_directory": "/content/drive/MyDrive/spatial_transcriptomics/results/figures",
+  "created_at_utc": "2026-10-25T07:01:12.385708+00:00",
+  "interpretation_note": "Marker expression maps show spatial detection patterns. They do not independently establish cell identity, malignancy, or tumor boundaries."
+}
